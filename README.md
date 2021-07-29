@@ -55,7 +55,9 @@ The web application is build in a 3-tier architecture, [React](https://reactjs.o
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy follow these simple steps.
+To get a local copy follow the simple steps [here](#installation) .
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
 ### Prerequisites
 
@@ -64,6 +66,8 @@ The list below are the frameworks that you need to run the system. You can use t
 * [ReactJS](https://reactjs.org/)
 * [NodeJS](https://nodejs.org/en/)
 * [XAMPP](https://www.apachefriends.org/index.html)
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
 ### Installation
 
@@ -75,6 +79,25 @@ The list below are the frameworks that you need to run the system. You can use t
    ```sh
    npm install
    ```
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->   
+
+<!-- LICENSE -->
+## License
+
+Distributed under... myself. See `LICENSE` for more information.
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - Chen Chee Kin
+
+Email - chencheekin1234@gmail.com
+
+Project Link: [https://github.com/kin9787/Final-Year-Project-2021](https://github.com/kin9787/Final-Year-Project-2021)
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
