@@ -55,7 +55,7 @@ The web application is build in a 3-tier architecture, [React](https://reactjs.o
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy follow the simple steps [here](#installation) .
+To get a local copy follow the simple steps in the [installation](#installation) section.
 
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
