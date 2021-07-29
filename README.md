@@ -10,14 +10,71 @@ Final Year Project on House Price Prediction
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Code is WITHOUT module but contains package.json file. To install all required modules simple use
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+<!-- Built With -->
+### Built With
+
+The web application is build in a 3-tier architecture, [React](https://reactjs.org/) as Front-end , [NodeJS](https://nodejs.org/en/) as Middleware and [XAMPP](https://www.apachefriends.org/index.html) as backend database.
+* [ReactJS](https://reactjs.org/)
+* [NodeJS](https://nodejs.org/en/)
+* [XAMPP](https://www.apachefriends.org/index.html)
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy follow these simple steps.
+
+### Prerequisites
+
+The list below are the frameworks that you need to run the system. You can use this [tutorial](https://www.liquidweb.com/kb/install-react-js-windows/) to setup ReactJS and NodeJS framework.
+
+* [ReactJS](https://reactjs.org/)
+* [NodeJS](https://nodejs.org/en/)
+* [XAMPP](https://www.apachefriends.org/index.html)
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/kin9787/Final-Year-Project-2021.git
+   ```
+2. Within the folder, summon the terminal and install NPM packages using the code below.
+   ```sh
+   npm install
+   ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
