@@ -11,6 +11,10 @@ Final Year Project on House Price Prediction
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 Code is WITHOUT module but contains package.json file. To install all required modules simple use
 
 
@@ -21,13 +25,12 @@ Code is WITHOUT module but contains package.json file. To install all required m
 [contributors-url]: https://github.com/kin9787/Final-Year-Project-2021/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/kin9787/kin9787.svg?style=for-the-badge
 [forks-url]: https://github.com/kin9787/Final-Year-Project-2021/network/members
-
 [issues-shield]: https://img.shields.io/github/issues/kin9787/kin9787.svg?style=for-the-badge
 [issues-url]: https://github.com/kin9787/kin9787/issues
 [license-shield]: https://img.shields.io/github/license/kin9787/kin9787.svg?style=for-the-badge
 [license-url]: https://github.com/kin9787/kin9787/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/chen-chee-kin-2b6664157/
 [product-screenshot]: images/screenshot.png
 
 <!--FORK REQUEST-->
