@@ -22,3 +22,10 @@ Code is WITHOUT module but contains package.json file. To install all required m
 [forks-shield]: https://img.shields.io/github/forks/kin9787/kin9787.svg?style=for-the-badge
 [forks-url]: https://github.com/kin9787/Final-Year-Project-2021/network/members
 
+[issues-shield]: https://img.shields.io/github/issues/kin9787/kin9787.svg?style=for-the-badge
+[issues-url]: https://github.com/kin9787/kin9787/issues
+[license-shield]: https://img.shields.io/github/license/kin9787/kin9787.svg?style=for-the-badge
+[license-url]: https://github.com/kin9787/kin9787/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: images/screenshot.png
