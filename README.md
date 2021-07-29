@@ -34,10 +34,8 @@ Final Year Project on House Price Prediction
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -79,6 +77,23 @@ The list below are the frameworks that you need to run the system. You can use t
    ```sh
    npm install
    ```
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+This repo acts as a reference to those who want to build a simple 3-tier web application using ReactJS, NodeJS and XAMPP. A machine leanring model is also added to this project which can be use to predict house price.
+
+_For more examples, please refer to the author by contact him_
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+   
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->   
 
 <!-- LICENSE -->
