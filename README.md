@@ -14,6 +14,30 @@ Final Year Project on House Price Prediction Year 2021
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/kin9787/Ferry-Ticketing-System-Assignment">
+    <img src="images/GitHubLogo.JPG" alt="Logo" width="150" height="200">
+  </a>
+  
+  <h3 align="center">House Price Prediction Web Application</h3>
+
+  <p align="center">
+    A House Price Prediction Web Application!
+    <br />
+    <a href="https://github.com/kin9787/Final-Year-Project-2021"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://github.com/kin9787/Final-Year-Project-2021/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/kin9787/Final-Year-Project-2021/issues">Request Feature</a>
+  </p>
+</p>
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -38,6 +62,20 @@ Final Year Project on House Price Prediction Year 2021
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+<!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<p align="center">
+    <img src="images/FYPExample.JPG" alt="Logo" width="750" height="400" >
+</p>
+
+<!-- [![Product Screen Shot][product-screenshot]](https://github.com/kin9787/Final-Year-Project-2021/blob/master/images/FYPExample.JPG) -->
+
+This project is a final year project. A house price prediction web application is built using React JS as front-end, NodeJs as Middleware and XAMPP as backend.
+
+Some useful reference and resoucrs that I find helpful are listed in the acknowledgements.
 
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 <!-- Built With -->
@@ -126,6 +164,6 @@ Project Link: [https://github.com/kin9787/Final-Year-Project-2021](https://githu
 [license-url]: https://github.com/kin9787/Final-Year-Project-2021/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chen-chee-kin-2b6664157/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/FYPExample.JPG
 
 <!--FORK REQUEST-->
