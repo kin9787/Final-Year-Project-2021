@@ -5,8 +5,8 @@
 *** Basically that's all I want to say. Good Luck and have fun. 
 -->
 
-# Final-Year-Project-2021
-Final Year Project on House Price Prediction
+# House Price Prediction Web Application
+Final Year Project on House Price Prediction Year 2021
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
