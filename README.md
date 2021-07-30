@@ -97,7 +97,7 @@ To get a local copy follow the simple steps in the [installation](#installation)
 
 ### Prerequisites
 
-The list below are the frameworks that you need to run the system. You can use this [tutorial](https://www.liquidweb.com/kb/install-react-js-windows/) to setup ReactJS and NodeJS framework.
+The list below are the frameworks that you need to run the system. You can use this [tutorial](https://www.liquidweb.com/kb/install-react-js-windows/) to setup ReactJS and NodeJS framework.For XAMPP just download the latest version only Apache and MySql is sufficient. 
 
 * [ReactJS](https://reactjs.org/)
 * [NodeJS](https://nodejs.org/en/)
@@ -111,10 +111,21 @@ The list below are the frameworks that you need to run the system. You can use t
    ```sh
    git clone https://github.com/kin9787/Final-Year-Project-2021.git
    ```
-2. Within the folder, summon the terminal and install NPM packages using the code below.
+2. There will be two different folder, fyp_1 for Front-end, api for back-end.Within each folder, summon the terminal and install NPM packages using the code below.
    ```sh
    npm install
    ```
+3. After that for thses folders, use the code below for api folder (back-end)
+  ```sh
+   npm start
+   ```
+4. Then go to the fyp_1 folder (front-end), use the code below.
+  ```sh
+   yarn start
+   ```
+5. After that give it sometime to run. If prom to change localhost, enter yes.
+
+6. Start the XAMPP server by clicking 'Start' on both Apache and MySql
 
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
