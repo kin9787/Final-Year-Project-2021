@@ -116,11 +116,11 @@ The list below are the frameworks that you need to run the system. You can use t
    npm install
    ```
 3. After that for thses folders, use the code below for api folder (back-end)
-  ```sh
+    ```sh
    npm start
    ```
 4. Then go to the fyp_1 folder (front-end), use the code below.
-  ```sh
+    ```sh
    yarn start
    ```
 5. After that give it sometime to run. If prom to change localhost, enter yes.
