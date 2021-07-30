@@ -1,0 +1,17 @@
+.property {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: calc(2vw + 2rem);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(166, 231, 169, 0.2);
+    object-fit: contain;
+  }
+
+.property-greet{
+  margin-top: 40px;
+}

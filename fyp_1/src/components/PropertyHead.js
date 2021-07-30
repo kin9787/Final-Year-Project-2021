@@ -1,0 +1,29 @@
+import React from "react";
+import './PropertyHead.css';
+import close from "../img/images/icon-remove.svg";
+
+const Header = ({ keywords, removeKeywords, clearAll }) => {
+  return (
+    <div className="header-container">
+      <ul>
+        {keywords.map((key, id) => {
+          return (
+            <li key={id}>
+              {key}
+              <button className="close" onClick={() => removeKeywords(key)}>
+              <img className="imgColor" src={close} alt="X" />
+              </button>
+            </li>
+          );
+        })}
+        <a href="#" onClick={() => clearAll()}>
+          Clear
+        </a>
+      </ul>
+    </div>
+  );
+};
+
+export default Header;
+
+// <img src={close} alt="" />
