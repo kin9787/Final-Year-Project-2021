@@ -155,7 +155,7 @@ Distributed under... myself. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Chen Chee Kin
+Name - Chen Chee Kin
 
 Email - chencheekin1234@gmail.com
 
